@@ -4,7 +4,7 @@ int main(){
 	
 	printf("Hallo");
 	for (int i=0; i<5; i++){
-		printf("%d",i);
+		printf("angkanya %d",i);
 	}
 	
 	return 0;
